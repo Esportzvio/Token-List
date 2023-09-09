@@ -28,5 +28,23 @@
     "logoURI": "https://elk.finance/tokens/logos/mumbai/0x3813e82e6f7098b9583FC0F33a962D02018B6803/logo.png",
     "coingeckoId": null,
     "listedIn": ["sushiswap", "elkfinance"]
-  }
+  },
+{
+  "symbol" : "ethAdd",
+  "name" : "ethAddress.io",
+  "address" : "0x325f188ce09F94Bd8eA7Bf395019cD146780BA20",
+  "decimals" : 18,
+  "logoURI" : "https://elk.finance/tokens/logos/mumbai/0x3813e82e6f7098b9583FC0F33a962D02018B6803/logo.png",
+  "coingeckoId" : null,
+  "listedIn": ["sushiswap", "elkfinance"]
+},
+  {
+  "symbol" : "RareTron",
+  "name" : "RareTron.io",
+  "address" : "0x54FA517F05e11Ffa87f4b22AE87d91Cec0C2D7E1",
+  "decimals" : 18,
+  "logoURI" : "https://elk.finance/tokens/logos/mumbai/0x3813e82e6f7098b9583FC0F33a962D02018B6803/logo.png",
+  "coingeckoId" : null,
+  "listedIn": ["sushiswap", "elkfinance"]
+}
 ]

@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "supportedChains": {
+    "erc20": 14,
+    "erc721": 14,
+    "blacklist": 3
+  }
+}

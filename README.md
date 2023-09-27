@@ -1,22 +1,50 @@
-# Multi Chain Token List
+# Frietor Wallet: Curated Token Lists
 
-> Welcome to the Multi-Chain Token List repository! This repository contains a curated list of tokens for various blockchain networks. These tokens can be used for fetching user balances, integrating into your blockchain applications, or for reference purposes.
+Welcome to the official repository for Frietor Wallet's curated token lists. Our mission is to provide users with a reliable and comprehensive list of tokens across major blockchain networks, ensuring a seamless and secure trading experience.
 
-## Chains Listed
+## 🌐 Supported Networks:
 
-- Polygon Mumbai
-- Polygon Mainnet
-- Avalanche
-- Avalanche Fuji
-- Binance Smart Chain
-- Binance Testnet
-- Ethereum
-- Ethereum Goerli
-- Optimism
+### Ethereum:
+- **Mainnet**
+- **Sepolia Testnet**
+- **Goerli Testnet**
 
-## Usage
+### Polygon (Matic):
+- **Mainnet**
+- **Mumbai Testnet**
+- **zkEVM**
+- **zkEVM Testnet**
 
-You can use this token list in your blockchain applications to reference token information or fetch user balances on various supported chains. Each token entry includes essential details such as symbol, address, decimals, chain ID, and a logo.
+### Avalanche:
+- **C-Chain Mainnet**
+- **Fuji C-Chain Testnet**
 
-## Contributions
-Contributions to this token list are welcome! If you have additional tokens to add, improvements to the existing data, or want to support additional chains, please feel free to open an issue or submit a pull request.
+### Optimism:
+- **Mainnet**
+- **Kovan Testnet**
+- **Goerli Testnet**
+
+### Binance Smart Chain (BSC):
+- **Mainnet**
+- **Testnet**
+
+## 🛡️ Security:
+
+For added protection, we've integrated a list of blacklisted tokens sourced from the reputable [DappRadar's tokens-blacklist repository](https://github.com/dappradar/tokens-blacklist). This ensures our users are shielded from potentially malicious or fake tokens.
+
+## 🤝 Contribute:
+
+Community contributions are the backbone of our curated lists. If you come across a token that you believe should be added or removed, please:
+
+1. Raise an issue detailing your suggestion.
+2. Or, submit a pull request with the necessary changes.
+
+Your insights and expertise are invaluable in maintaining the accuracy and reliability of our lists.
+
+## 📜 License:
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact:
+
+For any inquiries or feedback, please contact our support team at support@frietor.com.

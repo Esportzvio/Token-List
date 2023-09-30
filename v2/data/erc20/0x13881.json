@@ -4,7 +4,7 @@
     "address": "0xe11A86849d99F524cAC3E7A0Ec1241828e332C62",
     "name": "USDC",
     "symbol": "USDC",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
     "extensions": {
       "link": "https://www.circle.com/en/usdc",

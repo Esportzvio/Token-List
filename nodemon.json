@@ -1,6 +1,0 @@
-{
-  "watch": ["get_data"],
-  "ext": ".ts,.js",
-  "ignore": [],
-  "exec": "npx ts-node ./get_data/index.ts"
-}
